@@ -54,7 +54,7 @@
 
 - 🎨 I love experimenting with **creative AI applications**.  
 - 🌌 I’m fascinated by the possibilities of **remote sensing in AI**.  
-- 🧑‍🏫 I enjoy solving challenging problems using Programming and Mathematics.  
+- 🧑‍🏫 I enjoy solving challenging problems using **Programming and Mathematics**.  
 
 ---
 
