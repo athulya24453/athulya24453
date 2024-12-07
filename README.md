@@ -34,22 +34,6 @@
 
 ---
 
-## 🔄 **Live Updates**
-
-<!-- Workflow-based dynamic content -->
-<p>
-  🔥 **Latest Commits:**  
-  ![GitHub last commit](https://img.shields.io/github/last-commit/athulya24453/Mathematics_Algorithms?style=flat-square)
-
-  📈 **Active Repositories:**  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/athulya24453/Mathematics_Algorithms?style=flat-square)
-
-  💬 **Discussions and Issues:**  
-  ![GitHub Issues](https://img.shields.io/github/issues/athulya24453/EE356-SmartCalculator?style=flat-square)
-</p>
-
----
-
 ## ✨ **Fun Facts**
 
 - 🎨 I love experimenting with **creative AI applications**.  
