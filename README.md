@@ -1,7 +1,7 @@
 # 🌟 **Welcome to Athulya Ratnayake's GitHub!** 🌟
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1AC1DD&center=true&vCenter=true&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile;I'm+a+Developer+%7C+Creator+%7C+Innovator;Let%27s+build+something+awesome+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=1AC1DD&center=true&vCenter=true&width=700&lines=Hi+there!+👋;Welcome+to+my+GitHub+profile;I'm+a+Developer+%7C+Creator+%7C+Innovator;Let%27s+build+something+awesome+together!" alt="Typing SVG">
 </p>
 
 ---
