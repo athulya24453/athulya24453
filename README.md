@@ -19,7 +19,7 @@
 
 | **Programming** | **Frameworks & Libraries** | **Tools** |  
 |:---------------:|:--------------------------:|:---------:|  
-| Python 🐍       | TensorFlow ⚡              | Docker 🐳 |  
+| Python 🐍       | TensorFlow ⚡              | GitHub Actions ⚙️ |  
 | JavaScript ⚛️   | React ⚛️                   | AWS ☁️    |  
 | C++ 🔧          | PyTorch 🔥                | Linux 🐧  |  
 
