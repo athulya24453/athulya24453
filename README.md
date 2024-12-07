@@ -38,6 +38,9 @@
 
 <!-- Workflow-based dynamic content -->
 <p>
+  🔥 **Latest Commits:**  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/[Your GitHub Username]/[Your Repo]?style=flat-square)  
+
   📈 **Active Repositories:**  
   ![GitHub Repo stars](https://img.shields.io/github/stars/athulya24453/Mathematics_Algorithms?style=flat-square)  
 
